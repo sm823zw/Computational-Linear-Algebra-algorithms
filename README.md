@@ -1,5 +1,5 @@
 # Computational-Linear-Algebra-algorithms
-This repo consists of various Computational Linear Algebra algorithms.
+This repo consists of various Computational Linear Algebra algorithms written in MATLAB.
 
 It contains code for the following algorithms - 
 1. QR Decomposition - Gram Schmidt method.
